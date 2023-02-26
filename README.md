@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GucciOniPad
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Dart / Flutter 
+- 🌱 I’m currently learning everything
 
 <!---
 GucciOniPad/GucciOniPad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
